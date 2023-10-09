@@ -1,0 +1,15 @@
+E:\_School\Computer Science\tictactoe\obj\Debug\net7.0\tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+E:\_School\Computer Science\tictactoe\obj\Debug\net7.0\tictactoe.AssemblyInfoInputs.cache
+E:\_School\Computer Science\tictactoe\obj\Debug\net7.0\tictactoe.AssemblyInfo.cs
+E:\_School\Computer Science\tictactoe\obj\Debug\net7.0\tictactoe.csproj.CoreCompileInputs.cache
+E:\_School\Computer Science\tictactoe\bin\Debug\net7.0\tictactoe.exe
+E:\_School\Computer Science\tictactoe\bin\Debug\net7.0\tictactoe.dll.config
+E:\_School\Computer Science\tictactoe\bin\Debug\net7.0\tictactoe.deps.json
+E:\_School\Computer Science\tictactoe\bin\Debug\net7.0\tictactoe.runtimeconfig.json
+E:\_School\Computer Science\tictactoe\bin\Debug\net7.0\tictactoe.dll
+E:\_School\Computer Science\tictactoe\bin\Debug\net7.0\tictactoe.pdb
+E:\_School\Computer Science\tictactoe\obj\Debug\net7.0\tictactoe.dll
+E:\_School\Computer Science\tictactoe\obj\Debug\net7.0\refint\tictactoe.dll
+E:\_School\Computer Science\tictactoe\obj\Debug\net7.0\tictactoe.pdb
+E:\_School\Computer Science\tictactoe\obj\Debug\net7.0\tictactoe.genruntimeconfig.cache
+E:\_School\Computer Science\tictactoe\obj\Debug\net7.0\ref\tictactoe.dll

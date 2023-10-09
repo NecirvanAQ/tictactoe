@@ -12,3 +12,5 @@ H:\Computer Science\Practice Programming\tictactoe\obj\Debug\tictactoe.csprojAss
 H:\Computer Science\Practice Programming\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
 H:\Computer Science\Practice Programming\tictactoe\obj\Debug\tictactoe.exe
 H:\Computer Science\Practice Programming\tictactoe\obj\Debug\tictactoe.pdb
+E:\_School\Computer Science\tictactoe\obj\Debug\tictactoe.exe
+E:\_School\Computer Science\tictactoe\obj\Debug\tictactoe.pdb
