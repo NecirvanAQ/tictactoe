@@ -5,3 +5,10 @@ C:\Users\AQ231029\source\repos\tictactoe\bin\Debug\tictactoe.exe
 C:\Users\AQ231029\source\repos\tictactoe\bin\Debug\tictactoe.pdb
 C:\Users\AQ231029\source\repos\tictactoe\obj\Debug\tictactoe.exe
 C:\Users\AQ231029\source\repos\tictactoe\obj\Debug\tictactoe.pdb
+H:\Computer Science\Practice Programming\tictactoe\bin\Debug\tictactoe.exe.config
+H:\Computer Science\Practice Programming\tictactoe\bin\Debug\tictactoe.exe
+H:\Computer Science\Practice Programming\tictactoe\bin\Debug\tictactoe.pdb
+H:\Computer Science\Practice Programming\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+H:\Computer Science\Practice Programming\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+H:\Computer Science\Practice Programming\tictactoe\obj\Debug\tictactoe.exe
+H:\Computer Science\Practice Programming\tictactoe\obj\Debug\tictactoe.pdb

@@ -43,9 +43,7 @@ class Program
 
         foreach(int place in player1.places)
         {
-            
-
-            grid[place][place] = "X";
+            grid[(place / 10) % 10][place % 10] = "X";
         }
 
         foreach(var list in grid)
