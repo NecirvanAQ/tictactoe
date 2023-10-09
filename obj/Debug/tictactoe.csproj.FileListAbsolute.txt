@@ -1,0 +1,7 @@
+C:\Users\AQ231029\source\repos\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\AQ231029\source\repos\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\AQ231029\source\repos\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\AQ231029\source\repos\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\AQ231029\source\repos\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\AQ231029\source\repos\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\AQ231029\source\repos\tictactoe\obj\Debug\tictactoe.pdb
