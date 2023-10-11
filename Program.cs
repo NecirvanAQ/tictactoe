@@ -20,7 +20,27 @@ class Player
 
     public static bool Won(List<int> places)
     {
-        if (places.Contains(00) && places.Contains(01) && places.Contains(02))
+        if (places.Contains(0) && places.Contains(1) && places.Contains(2))
+        {
+            return true;
+        }
+
+        if (places.Contains(10) && places.Contains(11) && places.Contains(12))
+        {
+            return true;
+        }
+
+        if (places.Contains(20) && places.Contains(21) && places.Contains(22))
+        {
+            return true;
+        }
+
+        if (places.Contains(0) && places.Contains(11) && places.Contains(22))
+        {
+            return true;
+        }
+
+        if (places.Contains(2) && places.Contains(11) && places.Contains(20))
         {
             return true;
         }
@@ -37,12 +57,30 @@ class Program
         Player player2 = new Player();
         
 
-        while (Player.Won(player1.places) == false || Player.Won(player2.places) == false)
+        while (true)
         {
             DrawGrid(player1, player2);
             Player.Play(player1.places);
+
+            if (Player.Won(player1.places) == true)
+            {
+                Console.Clear();
+                Console.WriteLine("Player 1 wins!");
+                Console.ReadKey();
+                break;
+            }
+
+
             DrawGrid(player1, player2);
             Player.Play(player2.places);
+
+            if (Player.Won(player2.places) == true)
+            {
+                Console.Clear();
+                Console.WriteLine("Player 2 wins!");
+                Console.ReadKey();
+                break;
+            }
         }
         
     }
