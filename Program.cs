@@ -55,34 +55,30 @@ class Program
     {
         Player player1 = new Player();
         Player player2 = new Player();
-        
 
         while (true)
         {
             DrawGrid(player1, player2);
             Player.Play(player1.places);
 
-            if (Player.Won(player1.places) == true)
-            {
-                Console.Clear();
-                Console.WriteLine("Player 1 wins!");
-                Console.ReadKey();
-                break;
-            }
-
+            Check(player1);
 
             DrawGrid(player1, player2);
             Player.Play(player2.places);
 
-            if (Player.Won(player2.places) == true)
-            {
-                Console.Clear();
-                Console.WriteLine("Player 2 wins!");
-                Console.ReadKey();
-                break;
-            }
+            Check(player2);
+
         }
         
+    }
+    static void Check(Player player)
+    {
+        if (Player.Won(player.places) == true)
+        {
+            Console.Clear();
+            Console.WriteLine($"{player} wins!");
+            Console.ReadKey();
+        }
     }
     static void DrawGrid(Player player1, Player player2)
     {
