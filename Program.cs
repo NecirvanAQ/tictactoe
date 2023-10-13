@@ -67,7 +67,6 @@ class Program
             Player.Play(player2.places);
 
             Check(player2);
-
         }
         
     }
@@ -103,7 +102,6 @@ class Program
         foreach (var list in grid)
         {
             Console.WriteLine("__________");
-
             foreach(var item in list)
             {
                 Console.Write($"| {item} ");
